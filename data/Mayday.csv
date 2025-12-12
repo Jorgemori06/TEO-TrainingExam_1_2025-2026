@@ -1,0 +1,457 @@
+Date;Time;Location;Operator;Flight;Route;Type;Survivors;Fatalities;Airport;Operation
+12/03/1950;14:50;Llandow Airport, Cardiff, Wales;Fairflight Ltd.;;Llandow - Dublin;Avro 689 Tudor 5;3;80;0;Landing
+26/03/1952;;Tula Airport;Aeroflot / Military transport; / ;Odessa - Tula - Moscow / Tula - Berlin, Germany;Lisunov Li-2 / Ilyushin IL-12;0;70;0;Landing
+20/12/1952;6:30;Moses Lake, Washington;Military - U.S. Air Force;;Larson AFB Washington - Kelly AFB Texas;Douglas C-124A Globemaster;28;87;0;Taking-off
+18/06/1953;16:34;Tachikawa AB, Tokyo, Japan;Military - U.S. Air Force;;Tachikawa AB - Kimpo Int. Airport, South Korea;Douglas C-124A Globemaster II;0;129;0;Taking-off
+20/06/1956;1:30;Asbury Park, New Jersey;Linea Aeropostal Venezolana;;New York City - Caracas;Lockheed 1049E-55 Super Constellation;0;74;0;En route
+30/06/1956;10:32;Grand Canyon, Arizona;United Air Lines / Trans World Airlines;718/2;Los Angeles - Chicago / Los Angeles - Kansas City;Douglas DC-7 / Lockheed S Constellation;0;128;0;En route
+22/02/1957;20:00;Kimpo Int. Airport, South Korea;Military - U.S. Air Force;;Kimpo AB - Tokyo, Japan;Douglas C-124C;137;22;0;En route
+11/08/1957;14:15;Near Issoudun, Quebec, Canada;Maritime Central Airways;;Reykjavik - Montreal;Douglas DC-4;0;79;0;En route
+14/08/1958;3:45;North AtlantiOcean, 100 miles W of Galway Bay, Ireland;KLM Royal Dutch Airlines;607E;Amsterdam - Shannon - Gander - New York;Lockheed 1049H Super Constellation;0;99;0;En route
+17/10/1958;;Near Kanash, Russia;Aeroflot;;Peking - Moscow;Tupolev TU-104A;0;80;0;En route
+03/02/1959;23:56;La Guardia Airport, New York, NY;American Airlines;320;Chicago - New York City;Lockheed  188A Electra;8;65;0;Landing
+19/09/1960;6:02;Agana, Guam, Mariana Islands;World Airways;830;Guam - Wake Island;Douglas DC-6AB;14;80;0;Taking-off
+10/05/1961;2:30;Stah, Algeria;Air France;406;Fort Lamy, Chad - Marseilles, France;Lockheed 1649A Starliner;0;78;0;En route
+16/12/1960;10:33;Staten Island / Brooklyn, New York;United Air Lines / Trans World Airlines;826/266;Chicago - New York City / Columbus - New York City;MD DC-8-11 / Lockheed  1049 S Const;0;128;6;Approach
+19/01/1961;20:25;Idlewild, New York, NY;Aeronaves de Mexico;401;New York - Mexico City;McDonnell Douglas DC-8-21;102;4;0;Taking-off
+15/02/1961;10:05;Near Brussels, Belgium;Sabena;548;New York City - Brussels;Boeing B-707-320;0;72;1;Landing
+11/07/1961;11:36;Denver, Colorado;United Air Lines;859;Omaha - Denver;McDonnell Douglas DC-8-12;105;17;1;Landing
+12/07/1961;1:29;Casablanca, Morocco;Ceskoslovenske Aerolinie;;Zurich - Rabat;Ilyushin IL-18B;0;72;0;Approach
+01/09/1961;2:05;Near Hinsdale, Illinois;Trans World Airlines;529;Chicago - Las Vegas;Lockheed 049 Constellation;0;78;0;Taking-off
+10/09/1961;3:55;Shannon, Ireland;President Airlines;;Shannon - Gander;Douglas DC-6B;0;83;0;Taking-off
+12/09/1961;22:09;Near Rabat, Morrocco;Air France;2005;Paris - Rabat;Sud-Aviation Caravelle III;0;77;0;Landing
+08/11/1961;21:24;Near Richmond, Virginia;Imperial Airways;201/8;Baltimore - Columbia SC;Lockheed C-69 Constellation;2;77;0;En route
+01/03/1962;10:09;Jamaica Bay, New York, New York;American Airlines;1;New York City - Los Angeles;Boeing B-707-123B;0;95;0;Taking-off
+04/03/1962;18:20;Douala, Cameroon;Caledonian Airways;153;Douala - Lisboa;Douglas DC-7C;0;111;0;Taking-off
+15/03/1962;0:30;Western PacifiOcean, Philippine Sea;Flying Tiger Line;739;Travis AFB - Honolulu - Agana, Guam - Clark AFB -Saigon;Lockheed 1049H Super Constellation;0;107;0;En route
+03/06/1962;12:35;Villeneuve-le-Roi, Val-de-Marne, France;Air France;;Paris - New York City;Boeing B-707-328;2;130;0;Taking-off
+22/06/1962;4:01;Basse-Terre, Guadaloupe, West Indies;Air France;117;Paris - Pointe-a Pitre - Santaigo;Boeing B-707-328;0;112;0;Approach
+30/06/1962;;Near Krasnoyarsk, USSR;Aeroflot;902;Khabarovsk - Irkutsk - Omsk - Moscow;Tupolev TU-104A;0;84;0;En route
+07/07/1962;23:59;Near Junnar, Maharashtra, India;Alitalia;771;Bangkok - Bombay;McDonnell Douglas DC-8-43;0;94;0;Approach
+28/07/1962;;Sochi, Russia;Aeroflot;415;Lvov - Sochi;Antonov An-10A;0;81;0;Approach
+20/08/1962;22:08;Rio de Janerio, Brazil;Panair do Brazil;;Rio de Janeiro - Lisbon;McDonnell Douglas DC-8-33;90;15;0;Taking-off
+02/09/1962;;Near Khabarovsk, USSR;Aeroflot;;Khabarovk - Petropavlovsk;Tupolev TU-104A;0;86;0;Taking-off
+27/11/1962;3:40;Lima, Peru;Varig;810;Porto Alegre - Lima;Boeing B-707-441;0;97;0;Approach
+03/06/1963;10:16;PacifiOcean, 116 miles WSW of Annette Island, Alaska;Northwest Orient Airlines;293;McChord AFB - Elmendorf AFB;Douglas DC-7CF;0;101;0;En route
+04/09/1963;6:22;Durrenasch, Aargau, Switzerland;Swissair;306;Zurich - Geneva;Sud-Aviation Caravelle III;0;80;0;Taking-off
+29/11/1963;18:33;Ste. Therese de Blainville, Canada;Trans Canada Air Lines;831;Montreal - Toronto;McDonnell Douglas DC-8F-54F;0;118;0;Taking-off
+08/12/1963;20:59;Elkton, Maryland;Pan American World Airways;214;Washington - Baltimore - Philadelphia;Boeing B-707-121;0;81;0;En route
+29/02/1964;14:14;Mt. Glungezer, near Innsbruck, Austria;British Eagle International Airlines;802;London - Innsbruck;Bristol Britannia 312;0;83;0;Approach
+01/03/1964;11:29;Genoa Peak, near Zephyr Cove, Nevada;Paradise Airlines;901A;San Jose, CA - Lake Tahoe;Lockheed 049 Constellation;0;85;0;Approach
+11/05/1964;19:20;Clark AB, Papanga, Philippines;Military - U.S. Air Force;;Los Angeles - Clark AB;Boeing C-135B;5;79;0;Landing
+02/09/1964;;Island of Sakhalin, Russia;Aeroflot;721;Moscow - Khabarovsk - Krasnoyarsk - Sakhalin;Ilyushin IL-18B;0;87;0;Approach
+02/10/1964;5:45;Mt. Alcazaba, Granada, Spain;Union des Transportes Aeriens;;Palma de Mallorca - Port Etienne;Douglas DC-6B;0;80;0;En route
+06/02/1965;8:36;San Jose Volcano, Chile;LAN;107;Santiago - Buenos Aires;Douglas DC-6B;0;87;0;Climbing
+08/02/1965;18:26;Off Jones Beach, New York, New York;Eastern Air Lines;663;New York City - Richmond VA;Douglas DC-7B;0;84;0;Taking-off
+20/05/1965;23:48;Cairo, Egypt;Pakistan International Airlines;705;Karachi - Dhahran - Cairo - Geneva - London;Boeing B-720-040B;6;119;0;Approach
+25/06/1965;1:46;Near Santa Ana, California;Military - U.S. Air Force;;El Toro -  Honolulu - Okinawa;Boeing C-135A;0;85;0;Taking-off
+28/06/1965;13:10;San Francisco, California;Pan American World Airways;;San Francisco - Hawaii;Boeing B-707-321B;153;0;0;Taking-off
+04/12/1965;16:18;Carmel, New York;Trans World Airlines / Eastern Air Lines;42 / 853;New York City - San Francisco / Boston - Newark;Boeing B-707-131B / L1049C Constellation;108;4;0;Climbing
+11/12/1965;15:00;Near Tuy Hoa, South Vietnam;Military - U.S. Air Force;;Pleiku - Tuy Hoa;Fairchild C-123C;0;85;0;En route
+24/01/1966;8:02;Mont Blanc, French Alps, Switzerland;Air India;101;Bombay - Beirut  - Geneva - Paris - London -New York;Boeing B-707-437;0;117;0;Approach
+04/02/1966;19:00;Tokyo Bay, Japan;All Nippon Airways;8302;Chitose - Tokyo;Boeing B-727-81;0;133;0;Approach
+05/03/1966;14:15;Near Gotemba City, Mt. Fuji, Japan;British Overseas Airways;911;Tokyo - Hong Kong;Boeing B-707-436;0;124;0;En route
+22/04/1966;20:30;Near Ardmore, Oklahoma;American Flyers Airline;280D;Monterey - Ardmore;Lockheed 188C Electra;15;83;0;Approach
+01/09/1966;0:47;Near Ljubljana, Slovenia, Yugoslavia;Britannia Airways;105;Luton - Ljubljana;Bristol Britannia 102;19;98;0;Landing
+24/11/1966;16:30;Near Bratislava, Czechoslovakia;Transportno Aviatsionno Bulgaro-Soviet Obshchestvo;101;Bratislava - Praha;Ilyushin IL-18B;0;82;0;Taking-off
+04/03/1967;2:56;Monrovia, Liberia;Varig;837;Rome - Monrovia;McDonnell Douglas DC-8-33;39;51;5;Approach
+20/04/1967;1:13;Near Nicosia, Cyprus;Globe Air;;Bombay - Cairo;Bristol Britannia 175;4;126;0;Landing
+03/06/1967;21:06;Mt. Canigou, near Roussillon, France;Air Ferry Ltd;;Kent, England - Perpignan, France;Douglas C54A;0;88;0;Landing
+04/06/1967;10:09;Stockport, Cheshire, England;British Midland Airways;;Palma de Mallorca - Manchester;Canadair C-4 Argonaut;12;72;0;Landing
+19/07/1967;11:01;Near Hendersonville, North Carolina;Piedmont Airlines / Private;22 / ;Ashville - Roanoke / ;Boeing B-727-22 / Cessna 310;0;82;0;En route
+05/11/1967;10:35;Hong Kong, China;Cathay PacifiAirways;33;Hong Kong - Saigon;Convair CV-880-22M-3;126;1;0;Taking-off
+16/11/1967;;Near Sverdlovsk, Russia;Aeroflot;2230;Yekaterinburg - Sverdlovsk - Tashkent;Ilyushin IL-18B;0;130;0;Taking-off
+20/11/1967;20:57;Cincinnati International Airport, Covington/Hebron, Kentucky;Trans World Airlines;128;Los Angeles - Cincinnati;Convair CV-880-22-1;12;70;0;Landing
+08/12/1967;;Carpich Huanuco Mt., Peru;Faucett;;Lima - Huanuco - Tingo Maria;Douglas DC-C-54A;0;72;0;En route
+07/02/1968;15:00;Northern India;Military - Indian Air Force;;Chandigarh, Punjab - Leh, Kashmir;Antonov AN-12BP;0;98;0;En route
+29/02/1968;;Near Bratsk, Russia;Aeroflot;;Krasnoyarsk - Petropavlovsk;Ilyushin IL-18D;0;82;0;En route
+08/04/1968;15:35;Heathrow Airport, London, England;British Overseas Airways;712;London - Zurich;Boeing B-707-465;122;5;0;Taking-off
+20/04/1968;18:50;Near Windhoek, South Africa (Namibia);South African Airways;228/129;Windhoek - Luanda;Boeing B-707-344C;5;123;0;Taking-off
+03/05/1968;15:48;Near Dawson, Texas;Braniff Airlines;352;Houston - Dallas-Fort Worth;Lockheed L188A Electra;0;85;0;En route
+12/05/1968;16:00;Kham Duc, Vietnam;Military - U.S. Air Force;;Kham Duc Airstrip - Unknown;Lockheed C-130B Hercules;0;155;0;Taking-off
+22/06/1968;;Yuhnov, Russia;Military Soviet  Air Force / Aeroflot;/ 831;Kaunas - Ryazan / Moscow - Gomel;Antonov An-12 / Ilyshin IL-14;0;120;0;En route
+03/09/1968;21:25;Near Burgas, Bulgaria;Bulair TABSO;;Dresden. Germany - Bourgas, Bulgaria;Ilyushin IL-18;42;47;0;Approach
+11/09/1968;10:30;Off Cap d'Antibes, France;Air France;1611;Ajaccio - Nice;Sud-Aviation Caravelle 3;0;95;0;Climbing
+22/11/1968;1:24;San Francisco, California;Japan Air Lines;2;Tokyo - San Francisco;McDonnell Douglas DC-8-62;107;0;0;Approach
+16/03/1969;12:00;Maracaibo, Zulia, Venezuela;Venezolana Internacional de Aviacion;742;Maracaibo - Miami;McDonnell Douglas DC-9-32;0;84;70;Taking-off
+20/03/1969;2:00;Near Aswan, Egypt;United Arab Airlines;;Jeddah - Aswan;Ilyushin IL-18D;5;100;0;Landing
+04/06/1969;8:42;Near Salinas Victoria, Nuevo Leon, Mexico;Compania Mexicana de Aviacion;704;Mexico City - Monterey;Boeing B-727-64;0;79;0;Approach
+26/08/1969;20:31;Moscow, Russia;Aeroflot;1770;Sochi�Moscow�Norilsk;Ilyushin IL-18;96;16;0;Landing
+09/09/1969;14:29;Near Fairland, Indiana;Allegheny Airlines / Forth Corporation;853/;Indianapolis - Bakalar AFB / Private;MD Douglas DC-9-31/Piper Cherokee PA-28;0;83;0;Approach
+20/09/1969;16:00;Near Hoi An, Vietnam;Air Vietnam (South Vietnam) / Military - U.S. Air Force;/;Pleiku - Da Nang / ;Douglas DC-4 / USAF F-4E;2;74;2;Landing
+21/09/1969;;Mexico City, Mexico;Mexicana;;Chicago - Mexico City;Boeing B-727-64;91;27;0;Approach
+26/09/1969;;Mt. Choquetanga, La Paz, Bolivia;Lloyd Aereo Boliviano;;Santa Cruz - La Paz;Douglas DC-6B;0;74;0;Approach
+20/11/1969;8:30;Near Ikeja, Nigeria;Nigeria Airways;825;Kano - Lagos;BAC VC-10-1101;0;87;0;Approach
+08/12/1969;20:46;Mt. Pan, near Keratea, Greece;OlympiAirways;;Chania - Athens;Douglas DC-6B;0;90;0;Approach
+06/02/1970;;Near Samarkand, USSR;Aeroflot;45;Tashkent - Samarkand;Ilyushin IL-18V;0;92;0;En route
+15/02/1970;18:30;Off Santo Domingo, Dominican Republic;Compania Dominicana de Aviacion;;Santo Domingo - San Juan;McDonnell Douglas DC-9-32;0;102;0;Taking-off
+01/04/1970;8:16;Casablanca, Morocco;Royal Air Maroc;;Agadir - Casablanca;Aerospatiale Caravelle 3;21;61;0;Approach
+03/07/1970;19:05;Montseny Mountain, near Arbucias, Gerona, Spain;Dan Air Services;;Manchester - Barcelona;de Havilland Comet 4;0;112;0;Approach
+05/07/1970;8:09;Toronto, Canada;Air Canada;621;Montreal - Toronto - Los Angeles;McDonnell Douglas DC-8-63;0;109;0;Landing
+09/08/1970;15:00;Near Cuzco, Peru;Lineas Aereas Nacionales SA (Peru);;Cuzco - Lima;Lockheed 188A Electra;1;99;2;Taking-off
+14/11/1970;19:36;Near Huntington, West Virginia;Southern Airways;932;Kingston, NC - Huntington, WV;McDonnell Douglas DC-9-31;0;75;0;Approach
+27/11/1970;17:05;Anchorage, Alaska;Capital Airlines;26;Anchorage - Yokota AFB;McDonnell Douglas DC-8-63CF;182;47;0;Taking-off
+27/11/1970;13:30;Near Nha Trang, South Vietnam;Military - U.S. Air Force;;Saigon - Nha Trang AB;Fairchild C-123K;0;79;0;Approach
+31/12/1970;;Leningrad, Russia;Aeroflot;;Leningrad - Erevan;Ilyushin IL-18B;0;93;0;Taking-off
+23/05/1971;20:00;Near Rijeka, Yugoslavia;Aviogenex (Yugoslavia);130;London - Rijeka;Tupolev TU-134A;5;78;0;Landing
+25/07/1971;;Near Irkutsk, Russia;Aeroflot;;Novosibirsk - Irkutsk;Tupolev TU-104B;29;97;0;Landing
+30/07/1971;14:00;Near Morioko, Japan;All Nippon Airways /  Japanese Air Force;58/;Sapporo - Tokyo / ;Boeing B-727-281 / Air Force F86F;1;163;0;En route
+30/07/1971;14:29;San Francisco, California;Pan American World Airways;845;San Francisco - Los Angeles;Boeing B-747-121;218;0;0;Taking-off
+07/08/1971;;Irkutsk, USSR;Aeroflot;;Odessa - Irkutsk - Vladivostok;Tupolev TU-104;0;100;0;Taking-off
+04/09/1971;11:15;Chikat Mountain, near Juneau, Alaska;Alaska Airlines;1866;Anchorage - Seattle;Boeing B-727-193;0;111;0;Landing
+06/09/1971;;Near Hasloh, Germany;Pan International;;Hamburg, Germany - Malaga, Spain;BAC One-Eleven 515FB;99;22;0;Taking-off
+10/11/1971;;Off Padang, Philippines;Merpati Nusantara Airlines;;Jakarta - Padang;Vickers Viscount 828;0;69;0;Approach
+24/12/1971;12:36;Near Puerto Inca, Huanuco, Peru;Lineas Aereas Nacionales SA (Peru);508;Lima - Pucallpa;Lockheed 188A Electra;1;91;0;En route
+07/01/1972;22:00;Sierra de Atalayasa, Spain;Iberia Airlines;602;Valencia - Ibiza;Sud-Aviation Caravelle VI-R;0;104;0;Approach
+14/03/1972;22:00;Near Al Fujayrah, United Arab Emirates;Sterling Airways;296;Colombo - Dubai;Aerospatiale Caravelle Super 10B;0;112;0;Approach
+18/04/1972;9:39;Addis Ababa, Ethiopia;East African Airways;720;Addis Ababa - Rome;BAC Super VC-10 1154;64;43;0;Taking-off
+05/05/1972;22:24;Mt. Lunga, near Carini, Sicily, Italy;Alitalia;112;Rome - Palermo;McDonnell Douglas DC-8-43;0;115;0;Approach
+14/06/1972;20:20;Near New Delhi, India;Japan Air Lines;471;Bangkok - Delhi;McDonnell Douglas DC-8-53;5;82;4;Landing
+15/06/1972;14:00;Near Pleiku, Vietnam;Cathay PacifiAirways;700Z;Bangkok - Hong Kong;Convair CV-880-22M-21;0;81;0;En route
+18/06/1972;;Near Kharkov, Ukraine, USSR;Aeroflot;1491;Moscow - Kharkov;Antonov AN-10A;0;122;0;En route
+18/06/1972;16:11;London Heathrow,  Staines, Surrey, England;British European Airways;548;London - Brussels;Hawker Siddeley Trident 1C;0;118;0;Taking-off
+14/08/1972;17:00;Near Konigs Wusterausen, East Germany;Interflug;;Berlin - Birgas;Ilyushin IL-62;0;156;0;En route
+31/08/1972;;Near Magnitogorsk, Russia;Aeroflot;558;Karaganda - Moscow;Ilyushin IL-18;0;101;0;En route
+02/10/1972;18:00;Near Adler, Russia;Aeroflot;;Adler - Moscow;Ilyushin IL-18B;0;109;0;Taking-off
+13/10/1972;21:50;Near Krasnaya Polyana, USSR;Aeroflot;;Leningrad - Moscow;Ilyushin IL-62;0;174;0;Landing
+28/11/1972;19:51;Near Moscow, Russia;Japan Air Lines;446;Moscow - Tokyo;McDonnell Douglas DC-8-62;14;62;0;Taking-off
+03/12/1972;6:45;Tenerife,  Canary Islands;Spantax;;Tenerife - Munchen;Convair CV-990-30A-5 Coronado;0;155;0;Taking-off
+20/12/1972;18:00;Chicago, Illinois;Delta Air Lines/ North Central Airlines;954/575;Tampa - Chicago / Chicago - Madison;Convair CV-880 / McDonnell DC-9-31;123;10;0;Airport
+29/12/1972;23:42;Everglades National Park, Florida;Eastern Air Lines;401;New York City - Miami;Lockheed L-1011 TriStar1;73;103;0;En route
+22/01/1973;9:30;Kano, Nigeria;Alia Royal Jordanian Airlines;;Jeddah - Lagos;Boeing B-707-3D3C;26;176;0;Landing
+19/02/1973;10:06;Prague, Czechoslovakia;Aeroflot;;Moscow - Praha;Tupolev TU-154;34;66;0;Landing
+21/02/1973;14:10;Near Isma'iliya, Egypt;Libya Arab Airlines;114;Tripoli - Cairo;Boeing B-727-224;3;110;0;En route
+24/02/1973;;Near Leninabad, Russia;Aeroflot;630;Dushanbe - Leninabad - Moscow;Ilyushin IL-18;0;79;0;En route
+05/03/1973;13:50;Near Nantes, France;Lineas Aereas de Espana/Spantax SA Transportes;504/400;Palma de Mallorca - London / Madrid - London;MD Douglas DC-9-32/Convair CV-990A;114;68;0;En route
+10/04/1973;10:13;Near Hochwald, Solothurn,  Switzerland;Invicta International Airlines (UK);;Bristol - Basel;Vickers Vanguard 952;37;108;0;En route
+18/05/1973;;Chita, Siberia, Russia;Aeroflot;;Moscow - Chita;Tupolev TU-104A;0;100;0;En route
+11/07/1973;14:03;Paris, Orly, France;Varig;820;Rio de Janeiro - Paris;Boeing B-707-345C;11;123;0;En route
+22/07/1973;22:07;Off Papeete, Tahiti;Pan American World Airways;816;Auckland, NZ - Papeete, Tahiti - Honolulu - Los Angeles;Boeing B-707-321B;1;78;0;Taking-off
+31/07/1973;10:08;Logan Airport, Boston, Massachusett;Delta Air Lines;723;Burlilngton, VT  - Boston, MA;McDonnell Douglas DC-9-31;0;89;0;Approach
+13/10/1973;20:15;Near  Domodedovo, Russia;Aeroflot;964;Tbilisi - Moscow;Tupolev TU-104B;0;119;0;En route
+13/08/1973;11:40;Near La  Coru�a, Spain;Aviaco;116;Madrid - La Coru�a;Sud-Aviation Caravelle 10-R;0;85;5;Landing
+28/08/1973;20:50;Thirty-five miles west of Los Angeles, California;Trans World Airlines;742;Honolulu - Los Angeles;Boeing B-707-331B;148;1;0;Approach
+30/09/1973;20:40;Near Sverdlovsk, Russia;Aeroflot;3932;Sverdlovsk - Omsk;Tupolev TU-104B;0;108;0;Taking-off
+03/11/1973;16:40;Near Albuquerque,  New Mexico;National Airlines;27;Miami, FL - San Francisco, CA;McDonnell Douglas DC-10-10;127;1;0;En route
+17/12/1973;13:00;Rome, Italy;Pan American World Airways;110;Rome - Beirut;Boeing B-707-321B;147;30;0;Airport
+22/12/1973;22:10;Near Tetouan, Mt. Mellaline, Morocco;Sobelair SA (Belgium);;Paris - Tanger;Sud-Aviation Caravelle VI-N;0;106;0;Approach
+26/01/1974;7:30;Izmir, Turkey;Turkish Airlines (THY);;Izmir - Istanbul;Fokker F-28 Fellowship 1000;7;66;0;Taking-off
+30/01/1974;23:41;Pago Pago, American Samoa;Pan American World Airways;806;Auckland - Pago Pago;Boeing B-707-321B;5;96;0;Landing
+02/02/1974;21:30;Near Honolulu, HI;Pan American World Airways;;San Francisco, CA - Honolulu, HI - Agana, Guam;Boeing B-747;297;1;0;En route
+03/03/1974;11:41;Near Ermenonville, France;Turkish Airlines (THY);981;Paris - London;McDonnell Douglas DC-10-10;0;346;0;Climbing
+04/04/1974;2:35;Francistown, Botswana;Wenela Air Services;;Francistown - Malawi;Douglas DC-4;6;78;0;En route
+22/04/1974;15:26;Mt. Mesehe, Grogak, Bali, Indonesia;Pan American World Airways;812;Hong Kong - Bali, Indonesia - Sydney, Austrailia;Boeing B-707-321C;0;107;0;Approach
+24/04/1974;;Tashkent, Uzbekistan;Aeroflot;505;Tashkent - Shahrisabz;Ilyushin IL-18E;114;1;0;Taking-off
+27/04/1974;;Near Leningrad, Russia;Aeroflot;;Leningrad - Zaporizhzhia - Krasnodar;Ilyushin IL-18B;0;118;0;En route
+08/09/1974;9:40;Ionian Sea , off Kefallinia, Greece;Trans World Airlines;841;Tel Aviv - Athens - Rome - New York;Boeing B-707-331B;0;88;0;En route
+11/09/1974;7:34;Near Charlotte, North Carolina;Eastern Air Lines;212;Charleston, SC - Charlotte, NC - Chicago, IL;McDonnell Douglas DC-9-31;12;70;0;Approach
+15/09/1974;11:00;Phan Rang, Vietnam;Air Vietnam (South Vietnam);706;Da Nang - Saigon;Boeing B-727-121C;0;75;0;En route
+20/11/1974;7:50;Near Nairobi, Kenya;Lufthansa;540;Nairobi - Johannesburg;Boeing B-747-130;98;59;0;Taking-off
+01/12/1974;11:10;Near Berryville, Virginia;Trans World Airlines;514;Columbus - Washington D.C.;Boeing B-727-231;0;92;0;Approach
+04/12/1974;22:15;Near Maskeliya, Sri Lanka;Martinair Holland NV;;Surabaya - Jeddah;McDonnell Douglas DC-8-55F;0;191;0;Approach
+22/12/1974;12:30;Maturin, Venezuela;Aerovias Venezolanas SA (Venezuela);358;Matur�n - Maiquet�a ;McDonnell Douglas DC-9-14;0;77;0;Taking-off
+04/04/1975;16:30;Saigon, Vietnam;Military - U.S. Air Force;;Tan Son AFB - Clark AFB;Lockheed C-5A Galaxy;175;155;0;Taking-off
+24/06/1975;16:05;JFK Airport, New York, New York;Eastern Air Lines;66;New Orleans - New York City;Boeing B-727-225;11;113;0;Approach
+03/08/1975;4:30;Near Immouzer, Morocco;Alia Royal Jordanian Airlines;;Paris - Agadir;Boeing B-707-321C;0;188;0;Approach
+07/08/1975;16:11;Denver, Colorado;Continental Airlines;426;Denver - Wichita;Boeing B-727-224;131;0;0;Taking-off
+20/08/1975;1:15;Near Damascus, Syria;Ceskoslovenske Aerolinie;542;Prague, Czechoslovakia - Damascus, Syria;Ilyushin IL-62;2;126;0;Approach
+30/10/1975;9:20;Near Prague, Czechoslovakia;Inex Adria Aviopromet;;Tivat - Praha;McDonnell Douglas DC-9-32;45;75;0;Landing
+01/01/1976;5:30;Near Al Qaysumah, Saudi Arabia;Middle East Airlines;438;Beirut - Dubai;Boeing B-720B-023B;0;82;0;En route
+06/03/1976;1:00;Near Voronezh, Russia;Aeroflot;;Moscow - Yerevan;Ilyushin IL-18D;0;120;7;En route
+27/06/1976;;Entebbe, Uganda;Air France;139;Tel-Aviv - Athens - Paris;Airbus A300;251;7;0;Airport
+28/07/1976;;Bratislava, Czechoslovakia;Ceskoslovenske Aerolinie;;Prague - Bratislava;Ilyushin IL-18L;3;76;0;Approach
+09/09/1976;14:50;Off Adler, Russia;Aeroflot / Aeroflot;7957 /31;Donetsk - Sochi /Rostov na Donu - Kerch;Antonov AN-24 / Yakovlev Yak-40;0;90;0;En route
+10/09/1976;10:15;Near Gaj, Hrvatska, Yugoslavia;Inex Adria Aviopromet / British Airways;330/476;Split - Koln / London - Istanbul;McDonnell Douglas DC-9-31 / Trident 3B;0;176;0;En route
+19/09/1976;23:15;Karatepe Mountains, Turkey;Turkish Airlines (THY);;Istanbul - Antalya;Boeing B-727-2F2;0;154;0;Approach
+06/10/1976;13:24;Off Bridgetown, Barbados;Cubana de Aviacion;455;Bridgetown - Kingston;McDonnell Douglas DC-8-43;0;73;0;Taking-off
+13/10/1976;1:37;Near Bombay, India;Indian Airlines;;Mumbai - Chennai;Sud-Aviation Caravelle VI-N;0;95;0;Taking-off
+28/11/1976;19:00;Moscow, Russia;Aeroflot;;Moscow - Leningrad;Tupolev TU-104B;0;72;0;Taking-off
+13/01/1977;18:15;Near Alma Ata,  Kazakastan, USSR;Aeroflot;3843;Novosibirsk - Alma Ata;Tupolev TU-104A;0;96;0;Landing
+15/02/1977;;Mineralnye Vody, Russia;Aeroflot;;Tashkent - Mineralnyye Vody;Ilyushin IL-18V;0;77;0;Landing
+27/03/1977;17:07;Tenerife, Canary Islands;Pan American World Airways / KLM;1736/4805;Los Angeles - Nueva York - Las Palmas / Amsterdam - Las Palmas;Boeing B-747-121 / Boeing B-747-206B;61;583;0;Airport
+04/04/1977;16:19;New Hope, Georgia;Southern Airways;242;Huntsville - Atlanta;McDonnell Douglas DC-9-31;23;62;8;En route
+27/05/1977;;Havana, Cuba;Aeroflot;331;Moscow - Lisbon - Havana;Ilyushin IL-62M;2;68;1;Landing
+19/11/1977;21:48;Near Funchal, Island of Madeira, Portugal;TAP (Air Portugal);425;Brussels - Funchal;Boeing B-727-282;33;131;0;Landing
+02/12/1977;;Near Al Bayda, Lebanon;Balkan Bulgarian Airlines;;Jeddah - Benghazi;Tupolev TU-154B;106;59;0;Landing
+04/12/1977;20:15;Straits of Johore, near Kampung Ladang, Malaysia;Malaysia Airlines;653;Penang - Kuala Lumpur;Boeing B-737-2H6;0;100;0;En route
+01/01/1978;20:15;Off Bandra, Maharashtra, India;Air India;855;Bombay - Dubai;Boeing B-747-237B;0;213;0;Taking-off
+01/03/1978;9:25;LAX, Los Angeles, California;Continental Airlines;603;Los Angeles - Honolulu;McDonnell Douglas DC-10-10;198;2;0;Taking-off
+16/03/1978;;Vrastsa, Bulgaria;Balkan Bulgarian Airlines;;Sofia - Warszawa;Tupolev TU-134;0;73;0;Taking-off
+20/04/1978;;Near Murmansk, Russia;Korean Airlines;902;Paris - Seoul;Boeing B-707-321B;107;2;0;En route
+19/05/1978;;Pochinok, Russia;Aeroflot;;Baku - Leningrad;Tupolev TU-154B;130;4;0;En route
+26/06/1978;8:08;Toronto, Canada;Air Canada;189;Toronto - Winnipeg;McDonnell Douglas DC-9-32;105;2;0;Taking-off
+25/09/1978;9:02;San Diego, California;PacifiSouthwest Airlines / Private;182 /;Los Angeles - San Diego / Practice flight;Boeing B-727-214 / Cessna 172;0;137;7;Approach
+15/11/1978;23:30;Near Katunayake, Sri Lanka;Loftleidir IcelandiAirlines;;Jeddah - Colombo;McDonnell Douglas DC-8-Super 63CF;79;183;0;Landing
+19/11/1978;11:00;Near Leh, India;Military - Indian Air Force;;Chandigarh - Leh;Antonov An-12;0;77;1;Landing
+17/12/1978;;Hyderabad, India;Indian Airlines;403;Hyderabad-Begumpet;Boeing B-737-2A8;131;1;3;Taking-off
+23/12/1978;0:39;Near Cinisi, Sicily, Italy;Alitalia;4128;Rome - Palermo;McDonnell Douglas DC-9-32;21;108;0;Approach
+28/12/1978;18:15;Portland, Oregon;United Air Lines;173;Denver - Portland;McDonnell Douglas DC-8-61;179;10;0;En route
+17/03/1979;19:44;Near Moscow, Russia;Aeroflot;;Moscow - Odessa;Tupolev TU-104B;20;86;0;Taking-off
+25/05/1979;15:04;Chicago O'Hare, Illinois;American Airlines;191;Chicago, IL- Los Angeles, CA;McDonnell Douglas DC-10-10;0;271;2;Taking-off
+11/08/1979;13:35;Dneprodzerzhinsk, Ukraine, USSR;Aeroflot / Aeroflot;7880/7628;Tashkent - Donetsk - Minsk /Chelyabinsk to Kishinev;Tupolev TU-134A / Tupolev Tu-134A;0;178;0;En route
+08/10/1979;;Athens, Greece;Swissair;SR316;Zurich - Geneva - Athens - Bombay - Beijing;McDonnell Douglas DC-8-62;142;14;0;Landing
+31/10/1979;5:42;Mexico City, Mexico;Western Airlines;2605;Los Angeles, CA  - Mexico City, Mexico;McDonnell Douglas DC-10-10;16;72;1;Landing
+26/11/1979;2:03;Near At Ta'if, Jeddah, Saudi Arabia;Pakistan International Airlines;740;Jeddah - Karachi;Boeing B-707-340C;0;156;0;En route
+28/11/1979;12:49;Near Mt. Erebus, Ross Ice Shelf, Antarctica;Air New Zealand;901;Auckland - Christchurch;McDonnell Douglas DC-10-30;0;257;0;En route
+21/01/1980;19:10;Elburz Mtns., near Laskarak, Markazi, Iran;Iran National Airlines;;Babol Sar - Tehran;Boeing B-727-86;0;128;0;Landing
+27/02/1980;6:00;Manila, Philippines;China Airlines (Taiwan);;Taipei - Manila;Boeing B-707-309C;133;2;0;Landing
+14/03/1980;11:00;Near Warsaw, Poland;LOT Polish Airlines;7;New York City - Warsaw;Ilyushin IL-62;0;87;0;Landing
+25/04/1980;13:21;Tenerife, Canary Islands;Dan Air Services;1008;Manchester - Tenerife;Boeing B-727-64;0;146;0;Approach
+21/12/1980;14:23;Near Rio Hacha, Colombia;Transportes Aereos del Caribe;;Rio Hacha - Medellin;Aerospatiale Caravelle 6R;0;70;0;Taking-off
+27/06/1980;20:59;Tyrrhenian Sea,  off Ustica, Italy;Itavia;870;Bologna - Palermo;McDonnell Douglas DC-9-15;0;81;0;En route
+07/07/1980;0:39;Nar Alma-Ata, Kasakastan, USSR;Aeroflot;4225;Alma Ata - Simferopol;Tupolev TU-154B;0;166;0;Taking-off
+07/08/1980;3:00;Nouadhibou, Mauretania;Tarom;;Bucurest  - Nouadhibou;Tupolev TU-154B-1;167;1;0;Landing
+23/12/1980;23:12;Qatar, Qatar;Saudi Arabian Airlines;;Dhahran - Karachi;Lockheed L-1011-200;289;2;0;En route
+19/08/1980;19:08;Near Riyadh, Saudi Arabia;Saudi Arabian Airlines;163;Riyadh - Jeddah;Lockheed 1011-200 TriStar;0;301;0;Taking-off
+15/09/1980;0:00;Near Medina, Saudi Arabia;Military - Royal Saudi Air Force;453;Medina, Saudi Arabia - ;Lockheed C-130E;0;89;0;Taking-off
+19/11/1980;;Seoul, South Korea;Korean Airlines;;Anchorage - Seoul;Boeing B-747-2B5B;211;15;0;Landing
+22/08/1981;10:00;Near Sanyi, Miao-li, Taiwan;Far Eastern Air Transport;103;Taipei - Kaohsiung;Boeing B-737-222;0;110;0;En route
+16/11/1981;19:30;Norilsk, Russia;Aeroflot;;Krasnoyarsk - Norilsk;Tupolev TU-154B-2;68;99;0;Landing
+01/12/1981;8:53;Mt. San Pietro, near Ajaccio, Corsica, France;Inex Adria Aviopromet (Yugoslavia);JP1308;Ljubljana - Ajaccio;McDonnell Douglas MD-81;0;180;0;Approach
+13/01/1982;16:01;Washington, D.C.;Air Florida;90;Washington D.C. - Fort Lauderdale, FL;Boeing B-737-222;5;74;4;Taking-off
+14/01/1982;;Near Addis Ababa, Ethiopia;Military - Ethiopian Air Force;;-;Antonov AN-26;0;73;0;En route
+23/01/1982;19:36;Logan Airport,  Boston, Massachusett;World Airways;30H;Newark, NJ - Boston, MA;McDonnell Douglas DC-10-30CF;210;2;0;Landing
+09/02/1982;8:47;Tokyo, Japan;Japan Air Lines;350;Fukuoka - Tokyo;McDonnell Douglas DC-8-61;150;24;0;Landing
+24/06/1982;20:44;Mount Galunggung, Indonesia;British Airways;9;Kuala Lampur - Perth;Boeing B-747;257;0;0;En route
+28/06/1982;10:50;Southern Belarus, USSR;Aeroflot;8641;Leningrad - Kiev;Yakovlev YAK-42;0;132;0;En route
+26/04/1982;16:45;Near Yangshuo, Guangxi, China;CAAC;3303;Guangzhou - Guilin;Hawker Siddeley Trident 2E;0;112;0;Landing
+25/05/1982;;Brazilia, Brazil;VASP;234;S�o Paolo -Brazilia;Boeing B-737-200;116;2;0;Landing
+08/06/1982;2:25;Near Pacatuba, Serra da Aratanha, Brazil;VASP;168;Rio de Janerio - Fortaleza;Boeing B-727-212A;0;137;0;Approach
+22/06/1982;;Bombay, India;Air India;;Kuala Lumpur - Mumbai;Boeing B-707-437;94;17;0;Landing
+06/07/1982;0:05;Near Moscow, Russia;Aeroflot;411;Moscow - Freetown - Dakar, Senegal;Ilyushin IL-62M;0;90;0;Taking-off
+09/07/1982;16:09;Kenner, Louisiana;Pan American World Airways;759;New Orleans - Las Vegas;Boeing B-727-235;0;145;8;Taking-off
+13/09/1982;12:00;Near Malaga, Spain;Spantax;995;Malaga - New York City;McDonnell Douglas DC-10-30CF;344;50;0;Taking-off
+09/12/1982;14:30;Near San Andres de Bocay, Nicaragua;Military - Nicaraguan Air Force;;-;Mil Mi-8 (helicopter);4;84;0;En route
+29/04/1983;15:10;Guayaquil, Ecuador;SAN Ecuador;832;Guayaquil - Quito;Sud Aviation SE-210 Caravelle VIR;92;8;0;Taking-off
+05/05/1983;9:15;En route Miami, FL - Nassau, Bahamas;Eastern Air Lines;855;Miami, FL - Nassau, Bahamas;Lockheed L-1011;172;0;0;En route
+11/07/1983;7:40;Near Cuenca, Azuay, Ecuador;TAME;;Quito - Cuenca;Boeing B-737-2V2;0;119;0;Approach
+30/08/1983;23:17;Near Alma-Ata, Kazakastan, USSR;Aeroflot;;Kazan - Chelyabinsk - Alma-Ata;Tupolev TU-134A;0;90;0;Approach
+01/09/1983;18:26;Near Sakhalin Island, Russia;Korean Airlines;7;Anchorage - Seoul;Boeing B-747-230B;0;269;0;En route
+14/09/1983;9:34;Guilin, China;CAAC / Chinese Air force;/;Guilin - Beijing / ;Hawker Siddeley Trident 2E /  II-28;95;11;0;Airport
+23/09/1983;15:30;Near Mina Jebel Ali, UAE;Gulf Air;771;Karachi - Abu Dhabi;Boeing B-737-2P6;0;112;0;En route
+08/11/1983;15:20;Lubango, Huila, Angola;TAAG Angola Airlines;;Lubango - Luanda;Boeing B-737-200;0;130;0;Taking-off
+27/11/1983;10:06;Madrid-Barajas, Spain;AVIANCA;11;Paris - Madrid - Bogota;Boeing B-747-283B;11;181;0;Approach
+07/12/1983;9:40;Near Madrid, Spain;Iberia Airlines / Aviaco;350/134;Madrid - Rome/Madrid - Santander;Boeing B-727-200 / DC9-32;42;93;0;Taking-off
+28/02/1984;16:16;JFK Airport, New York, New York;Scandinavian Airlines (SAS);901;Oslo, Norway, New York, NY;McDonnell Douglas DC-10-30;177;0;0;Landing
+30/08/1984;;Douala, Cameroon;Cameroon Airlines;786;Douala - Yaounde;Boeing B-737-2H7C;114;2;0;Airport
+11/10/1984;5:40;Near Omsk, Russia;Aeroflot;3352;Krasnodar - Omsk;Tupolev TU-154B;5;174;4;Landing
+28/10/1984;;Near Kabul, Afghanistan;Military - Russian Air Force;;-;Antonov AN-22;0;240;0;Taking-off
+23/12/1984;18:10;Near Kranoyarsk, Russia;Aeroflot;3519;Krasnoyarsk - Irkutsk;Tupolev TU-154B-2;0;110;0;Landing
+21/01/1985;1:04;Reno, Nevada;Galaxy Airlines;203;Reno, NV - Minneapolis-St. Paul, MN;Lockheed L-188A Electra;1;70;0;Landing
+01/02/1985;;Minsk, Belarus, USSR;Aeroflot;;Minsk - Leningrad;Tupolev TU-134A;22;58;0;Taking-off
+19/02/1985;9:27;Near Durango, Mt. Oiz, Vizcaya, Spain;Iberia Airlines;610;Madrid - Bilbao;Boeing B-727-256;0;148;0;En route
+19/02/1985;10:15;300 nm NW of San Francisco, California;China Airlines (Taiwan);6;Taipei - Los Angeles;Boeing B-747-SP-09;274;0;0;En route
+03/05/1985;12:00;Near L'vov, Ukraine, USSR;Aeroflot / Soviet Air Force;/;Tallin - L'vov / ;Tupolev TU-134A / Antonov An-26;0;76;0;Landing
+14/06/1985;;Athens, Greece;Trans World Airlines;847;Athens - Rome;Boeing B-727-231;152;1;0;En route
+23/06/1985;7:15;AtlantiOcean, 110 miles West of Ireland;Air India;182;Montreal - London;Boeing B-747-237B;0;329;0;En route
+10/07/1985;23:45;Near Uchuduk, Uzbekistan, USSR;Aeroflot;7425;Karshi - Leningrad;Tupolev TU-154B-2;0;200;0;En route
+24/07/1985;17:00;Leticia, Colombia;Fuerza A�rea Colombiana;;Leticia - Bogota;Douglas DC-6B;0;80;0;En route
+02/08/1985;18:06;Ft. Worth-Dallas, Texas;Delta Air Lines;191;Fort Lauderdale - Dallas-Fort Worth;Lockheed L-1011-1 TriStar;29;134;1;Landing
+12/08/1985;18:56;Mt. Osutaka, near Ueno Village, Japan;Japan Air Lines;123;Tokyo - Osaka;Boeing B-747-SR46;4;520;0;En route
+22/08/1985;6:13;Manchester, England;British Airtours;28M;Manchester - Kerkira;Boeing B-737-236;82;55;0;En route
+24/11/1985;20:15;Luqa, Malta;EgyptAir;648;Athens - Cairo;Boeing B-737-266;43;60;0;Airport
+12/12/1985;6:45;Gander, Newfoundland, Canada;Arrow Airways;MF1285R;Gander - Fort Campbell, KY;McDonnell Douglas DC-8 Super 63PF;0;256;0;Taking-off
+18/01/1986;8:00;Near Peten, Guatemala;Aerovias de Guatemala SA;;Guatemala City - Flores;Sud-Aviation  Caravelle VI-N;0;87;0;Landing
+31/03/1986;9:11;Maravatio, Mexico;Mexicana;940;Mexico City - Puerto Vallarta;Boeing B-727-264;0;167;0;En route
+02/04/1986;;Near Athens, Greece;Trans World Airlines;840;Rome - Athens;Boeing B-727;117;4;0;En route
+03/05/1986;;Colombo, Sri Lanka;Air Lanka;;Colombo - Male, Maldives;Lockheed L-1011-100;128;22;0;Airport
+02/07/1986;10:27;Near Syktyvar, Russia;Aeroflot;2306;Vorkuta - Syktyvkar - Moscow;Tupolev TU-134A;40;54;0;En route
+05/09/1986;6:00;Karachi, Pakistan;Pan American World Airways;73;Bombay-Karachi-Frankfurt-New York;Boeing B-747-121;368;16;1;Airport
+20/10/1986;15:50;Kuybyshev, Russia;Aeroflot;;Yekaterinburg - Kuybyshev;Tupolev TU-134A;22;70;0;Landing
+02/11/1986;19:25;Near Zahedan, Iran;Military - Iranian Air Force;;Bakhtaran - Zahedan;Lockheed C-130;0;103;0;Approach
+12/12/1986;;Berlin, East Germany;Aeroflot;;Minsk - Berlin;Tupolev TU-134A;12;70;0;Landing
+25/12/1986;;Ay, Saudi Arabia;Iraqi Airways;;Baghdad - Amman;Boeing B-737-270C;43;63;0;En route
+09/05/1987;11:12;Warsaw, Poland;LOT Polish Airlines;5055;Warsaw - New York City;Ilyushin IL-62M;0;183;0;En route
+24/07/1987;;Geneva, Switzerland;Air Afrique;56;Brazzaville - Paris;McDonnell Douglas DC-10-30;162;1;0;En route
+18/01/1988;22:17;Near Chungking, Sichuan, China;China Southwest Airlines;4146;Beijing - Chongqing;Ilyushin IL-18D;0;108;0;Approach
+16/08/1987;20:46;Romulus, Michigan;Northwest Airlines;255;Detroit, MI - Phoenix, AZ;McDonnell Douglas MD-82;1;154;2;Taking-off
+31/08/1987;15:36;Off Ko Phuket, Thiland;Thai Airways;365;Hat Yai - Phuket;Boeing B-737-2P5;0;83;0;Taking-off
+28/11/1987;4:00;Off Mauritius, Indian Ocean;South African Airways;295;Taipei, Taiwan -  Mauritius - Johannesburg, South Africa;Boeing B-747-244B;0;159;0;En route
+29/11/1987;11:30;Over the Andaman Sea;Korean Airlines;858;Abu Dhabi - Bangkok;Boeing B-707-3B5C;0;115;0;En route
+18/01/1988;4:20;Krosnovodsk, USSR;Aeroflot;;Moscow - Krosnovodsk;Tupolev TU 154B-2;132;11;0;Landing
+17/03/1988;13:17;Near Cucuta, N of  Santander, Colombia;AVIANCA;410;Cucuta - Cartagena;Boeing B-727-21;0;143;0;Taking-off
+05/04/1988;;Combi, Cyprus;Kuwait Airways;;Bangkok - Kuwait;Boeing B-747-200;110;2;0;Airport
+28/04/1988;13:46;Maui, Hawaii;Aloha Airlines;243;Hilo - Honolulu;Boeing B-737-297;94;1;0;En route
+26/06/1988;14:45;Habsheim, France;Air France;296Q;Basel - Basel;Airbus A320-111;133;3;0;Airport
+03/07/1988;10:55;Over the Persian Gulf, near Bandar Abbas, Iran;Iran Air;655;Bandar Abbas - Dubai;Airbus A300B2-203;0;290;0;En route
+31/08/1988;9:01;Dallas, Texas;Delta Air Lines;1141;Dallas/Fort Worth, TX - Salt Lake City, UT;Boeing B-727-232 Adv;94;14;0;Taking-off
+09/09/1988;11:38;Bangkok, Thailand;Hang Khong (Vietnam);831;Hanoi - Bangkok;Tupolev TU-134A;14;76;0;Approach
+15/09/1988;13:05;Bahar Dar, Ethiopia;Ethiopian Airlines;604;Bahar Dar - Asmara;Boeing B-737-230;69;35;0;Taking-off
+19/10/1988;7:00;Near Ahmedabad, India;Indian Airlines;113;Bombay - Ahmadabad;Boeing B-737-2A8;5;124;0;Approach
+11/12/1988;;Leninakan, Armenia, USSR;Military - Russian Air Force / Military - Russian Air Force;/;/;Ilyushin IL-76 / Mi-8 (helicopter);6;77;0;Landing
+21/12/1988;19:03;Lockerbie, Scotland;Pan American World Airways;103;London - New York City;Boeing B-747-121A;0;259;11;Climbing
+08/01/1989;20:25;Leicestershire, England;British Midland Airways;92;London - Belfast;Boeing B-737-4Y0;79;47;0;Climbing
+08/02/1989;14:08;Pico Alto mountain, Santa Maria, Azores, Portugal;Independent Air Inc.;1851;Bergamo - Orio al Serio - Santa Maria;Boeing B-707-331B;0;144;0;Approach
+24/02/1989;2:09;Honolulu, Hawaii;United Air Lines;811;Los Angeles - Honolulu - Auckland - Sidney;Boeing B-747-122;347;9;0;En route
+07/06/1989;4:27;Near Paramaribo, Surinam;Surinam Airways;764;Paramaribo - Zanderij;McDonnell Douglas DC-8 Super 62;11;176;0;Approach
+17/06/1989;8:28;Berlin, Germany;Interflug;;Berlin - Moscow;Ilyushin IL-62MK;93;20;1;Taking-off
+19/07/1989;16:00;Sioux City, Iowa;United Air Lines;232;Denver, CO - Chicago, IL;McDonnell Douglas DC-10-10;186;112;0;En route
+21/07/1989;15:23;Manila, Philippines;Philippine Air Lines;;Zamboanga - Manila;BAC One-Eleven 516FP;97;1;8;Landing
+27/07/1989;7:00;Tripoli, Libya;Korean Airlines;803;Jeddah - Tripoli;McDonnell Douglas DC-10-30;124;75;4;Landing
+03/09/1989;19:00;Near Havana, Cuba;Cubana de Aviacion;;Havana - K�ln, Bonn;Ilyushin IL-62M;0;126;45;Taking-off
+19/09/1989;14:00;Near Bilma, Niger;Union des Transportes Aeriens;772;N'Djamena - Paris;McDonnell Douglas DC-10-30;0;171;0;Climbing
+21/10/1989;7:53;Near Tegucigalpa, Honduras;TAN;414;Managua - Tegucigalpa;Boeing B-727-224;19;127;0;Landing
+27/11/1989;7:16;Bogota, Colombia;AVIANCA;203;Bogota - Cali;Boeing B-727-21;0;107;3;Taking-off
+25/01/1990;21:34;Cove Neck, New York;AVIANCA;52;Medellin - New York City;Boeing B-707-321B;85;73;0;Approach
+14/02/1990;13:03;Near Bangalore, India;Indian Airlines;605;Bombay - Bangalore;Airbus A320-231;54;92;0;Approach
+11/05/1990;;Manila, Philippines;Philippine Air Lines;;Manila - Iloilo;Boeing B-737-3Y0;111;8;0;Airport
+10/08/1990;;Near Shindand, Afghanistan;Military - Afghan Republican Air Force;;Shindand - ;Antonov AN-12;0;83;0;Taking-off
+14/09/1990;;Koltsovo, Russia;Aeroflot;;Volgograd - Sverdlovsk;Yakovlev YAK-42;125;4;0;Landing
+02/10/1990;;Near Kuwait City, Kuwait;Iraqi Airways;;Kuwait City - ;Ilyushin IL-76;0;130;0;Taking-off
+02/10/1990;9:15;Guangzhou, China;Xiamen Airlines / China Southwest Airlines / CAAC;8301/4305/3523;Xiamen - Guangzhou / (parked) / Guangzhou - Shanghai;Boeing B-737-247 / Boeing 707-3J6B / Boeing B-757-21B;98;128;0;Landing
+03/10/1990;20:08;Cape Canaveral, Florida;Eastern Air Lines;791;Washington - West Palm Beach ;McDonnell Douglas DC-9-31;96;1;0;En route
+03/12/1990;13:45;Romulus, Michigan;Northwest Airlines/ Northwest Airlines;299/1482;Detroit - Pittsburg / Detroit - Memphis;Boeing B-727-251 / MD Douglas DC-9-14;190;8;0;Airport
+21/03/1991;;Ras-al-Mishab, Saudi Arabia;Military - Royal Saudi Air Force;;Jedda - Ras-al-Mishab;Lockheed C-130H;0;98;0;Landing
+23/05/1991;13:06;Leningrad, USSR;Aeroflot;;Sukhumi - Leningrad;Tupolev TU-154B-1;168;13;0;Landing
+26/05/1991;23:17;Near Ban Nong Rong, Thailand;Lauda Air;4;Bangkok - Wien, Austria;Boeing B-767-3Z9ER;0;223;0;Climbing
+11/07/1991;8:40;Jeddah, Saudi Arabia;Nationair (chartered by Nigeria Airways);2120;Jeddah - Sokoto;McDonnell Douglas DC-8 Super 61;0;261;0;Taking-off
+16/08/1991;1:55;Imphal, India;Indian Airlines;257;Calcutta - Imphal;Boeing B-737-2A8;0;69;0;Approach
+05/10/1991;15:00;Condet, Indonesia;Military - Indonesian Air Force;;-;Lockheed C-130H-30;1;134;1;Taking-off
+27/12/1991;8:51;Stockholm, Sweden;Scandinavian Airlines (SAS);751;Stockholm-Copenhagen-Warsaw;MDonnell Douglas MD-81;129;0;0;Climbing
+20/01/1992;19:20;Mt. Saint-Odile, near Strasbourg, France;Air Inter;148;Lyon - Strasbourg;Airbus A320-111;9;87;0;Approach
+24/07/1992;16:30;Mt. Lalaboy,  Indonesia;Mandala Airlines;;Jakarta - Surabaya - Ujung Pandang - Ambon;Vickers Viscount 816;0;70;0;Approach
+28/09/1992;14:30;Near  Kathmandu, Bhattedanda hill, Nepal;Pakistan International Airlines;268;Karachi - Kathmandu;Airbus A300B4-203;0;167;0;Approach
+30/07/1992;17:41;JFK Airport, New York, New York;Trans World Airlines;843;New York City - San Francisco;Lockheed L-1011;292;0;0;Taking-off
+31/07/1992;12:45;Near Kathmandu, Nepal;Thai Airways;311;Bangkok - Kathmandu;Airbus A310-304;0;113;0;Approach
+31/07/1992;15:12;Nanjing, Jiangsu, China;China General Aviation Corporation;7552;Nanjing - Xiamen;Yakovlev YAK-42D;18;108;0;Taking-off
+27/08/1992;22:44;Near Ivanovo, Russia;Aeroflot;2808;Donetsk - Ivanovo;Tupolev TU-134A;0;84;0;Approach
+26/09/1992;18:00;Near Lagos, Nigeria;Military - Federal Nigerian Air Force;;Lagos - Kaduna;Lockheed C-130H;0;158;0;Taking-off
+24/11/1992;7:52;Near Liutang, Guangxi, China;China Southern Airlines;3943;Guangzhou - Guilin;Boeing B-737-3Y0;0;141;0;Approach
+21/12/1992;7:53;Faro, Algarve, Portugal;Martinair Holland NV;495;Amsterdam - Faro;McDonnell Douglas DC-10-30CF;284;56;0;Landing
+22/12/1992;10:00;Tripoli, Libya;Libya Arab Airlines / Military -  Libya Air Force;1103/;Benghazi - Tripoli /;Boeing B-727-2L5 / MiG23UB;0;157;0;En route
+08/02/1993;14:15;Near Tehran, Iran;Iran Air Tours  /  Military - Iranian Air Force;/;Tehran - Khoram /;Tupolev TU-154M / Sukhoi Su-24;0;133;0;Taking-off
+05/03/1993;11:12;Skopje, Macedonia;Palair Macedonian;301;Skopje - Z�rich;Fokker 100;14;83;0;Taking-off
+06/04/1993;1:10;950 nm S of  Shemya, Alaska;China Eastern Airlines;583;Shanghai - Los Angeles;McDonnell Douglas MD-11;262;2;0;En route
+26/04/1993;13:00;Aurangabad, India;Indian Airlines;491;Aurangabad - Bombay;Boeing B-737-2A8;62;56;0;Taking-off
+27/04/1993;;Near Kholm, Afghanistan;Military - Afghan Republican Air Force;;Kabul - Mazar-i- Sharif;Antonov AN-32;0;76;0;En route
+19/05/1993;15:04;Near Medellin, Mt. Paramo Frontino, Colombia;SAM Colombia;501;Panama City - Medellin;Boeing B-727-46;0;132;0;Approach
+23/07/1993;15:40;Yinchuan, China;China Northwest Airlines;2119;Yinchuan - Beijing;British Aerospace 146-300;58;55;0;Taking-off
+26/07/1993;15:48;Haenam, South Korea;Asiana Airlines;733;Seoul - Mokpo;Boeing B-737-5L9;42;68;0;Landing
+28/08/1993;10:45;Khorag, Tajikistan;Tajikistan Airlines;;Khorag - Dushanbe;Yakovlev YAK-40;4;82;0;Taking-off
+22/09/1993;18:30;Sukhumi, Georgia;Transair Georgia Airlines;;Tbilisi - Sukhumi;Tupolev TU-154B;26;106;0;Landing
+13/11/1993;14:55;Urumqi, China;China Northern Airlines;6901;Beijing - Urumqi;McDonnell Douglas MD-82;90;12;0;Landing
+20/11/1993;23:30;Near Ohrid, Macedonia;Aviaimpex (Macedonia);110;Gen�ve - Skopje;Yakovlev YAK-42D;0;116;0;Approach
+03/01/1994;12:07;Near Irrupts, Siberia, Russia;Baikal Air;130;Irkutsk - Moscow;Tupolev TU-154M;0;124;1;Taking-off
+02/03/1994;17:59;New York, New York;Continental Airlines;795;New York City - Denver;McDonnell Douglas MD-82;116;0;0;Taking-off
+23/03/1994;0:57;Near Mezhdurechensk, Russia;Aeroflot Russian International Airways;593;Moscow - Hong Kong;Airbus A310-304;0;75;0;En route
+26/04/1994;20:16;Near Komaki, Aichi, Japan;China Airlines (Taiwan);140;Taipe - Nagoya;Airbus A300B4-622R;7;264;0;Approach
+06/06/1994;8:20;Near Xi'an, China;China Northwest Airlines;2303;Xian - Guangzhou;Tupolev TU-154M;0;160;0;Taking-off
+01/07/1994;8:30;Near Tidjika, Mauritania;Air Mauritanie;;Nouakchott - Tidjikja;Fokker F-28 Fellowship 4000;13;80;0;Landing
+10/08/1994;11:22;Cheju, South Korea;Korean Airlines;2033;Seoul - Cheju;Airbus A300B4-622R;160;0;0;Landing
+08/09/1994;19:03;Near Aliquippa, Pennsylvania;USAir;427;Chicago - Pittsburgh;Boeing B-737-3B7;0;132;0;Approach
+22/11/1994;22:03;Bridgeton, Missouri;Trans World Airlines / Private;427 / ;St. Louis - Denver / Private;McDonnell Douglas DC-9-82 / Cessna 441;140;2;0;Airport
+10/12/1994;11:30;PacifiOcean;Philippine Air Lines;434;Manila - Cebu - Tokyo;Boeing B-747-200;292;1;0;En route
+26/12/1994;17:00;Algiers Airport, Algeria;Air France;8969;Alger - Paris;Airbus A300B2-1C;236;3;0;Airport
+12/09/1995;7:20;Off Colombo, Sri Lanka;Military - Sri Lanka Air Force;;Ratmalana - Palali base;Antonov AN-32;0;81;0;Taking-off
+13/11/1995;8:55;Kaduna, Nigeria;Nigeria Airways;357;Jos - Kano;Boeing B-737-2F9;128;9;0;Landing
+03/12/1995;22:44;Near Douala, Cameroon;Cameroon Airlines;3701;Cotonou - Douala;Boeing B-737-2K9;6;72;0;Landing
+05/12/1995;17:55;Near Nakhichevan, Azerbaijan, Russia;Azerbaijani Airlines;;Nakhichevan - Baku;Tupolev TU-134B-3;28;54;0;Taking-off
+07/12/1995;5:20;Near Grossevichi, Russia;Far East Aviation;3949;Yushno - Khabarovk;Tupolev TU-154B;0;98;0;En route
+18/12/1995;;Kahengula, Angola;Trans Service Airlift;;Kinshasa - Jamba;Lockheed L-188C Electra;3;141;0;Taking-off
+20/12/1995;21:38;Near Buga, Mt. El Deluvio, Valle del Cauca, Colombia;American Airlines;965;Miami - Cali;Boeing B-757-223;4;160;0;En route
+06/02/1996;23:47;Off Puerto Plata, Domincan Republic;Alas Nacionales, leased from Birgen Air;301;Puerto Plata - Gander;Boeing B-757-225;0;189;0;Taking-off
+26/02/1996;19:00;Near Jabal Awliya, Sudan;Military - Sudanese Air Force;;El Obeid - Khartoum;Lockheed C-130H;0;91;0;En route
+29/02/1996;20:25;Arequipa, Peru;Compania de Aviacion Faucett SA (Peru);251;Lima - Arequipa;Boeing B-737-222;0;123;0;Approach
+11/05/1996;14:15;Everglades, Miami, Florida;ValuJet;592;Miami - Atlanta;McDonnell Douglas DC-9-32;0;110;0;Taking-off
+13/06/1996;12:07;Fukuoka, Japan;Garuda Indonesia Airlines;865;Fukuoka - Denpasar;McDonnell Douglas DC-10-30;272;3;0;Taking-off
+06/07/1996;15:42;Pensacola, Florida;Delta Air Lines;1288;Pensacola - Atlanta;McDonnell Douglas MD-88;140;2;0;En route
+17/07/1996;20:31;Off East Moriches, New York;Trans World Airlines;800;New York City - Paris;Boeing B-747-131;0;230;0;En route
+29/08/1996;10:22;Spitsbergen, Norway;Vnokovo Airlines;2801;Moscow - Svalbard;Tupolev TU-154M;0;141;0;Approach
+02/10/1996;1:16;Off Pasamayo, Peru;Aeroperu;603;Lima - Santiago;Boeing B-757-200;0;70;0;En route
+31/10/1996;8:27;Sao Paolo, Brazil;TAM (Brazil);402;Sao Paulo - Rio de Janiero;Fokker 100;0;95;3;Taking-off
+07/11/1996;17:00;Lagos, Nigeria;Aviation Development Corporation;86;Port Harcourt - Lagos;Boeing B-727-231;0;143;0;En route
+12/11/1996;18:40;Near Charkhidadri, India;Saudi Arabian Airlines / Kazastan Airlines;763/1907;New Delhi - Dhahran / Chimkent - New Delhi;Boeing B-747-168B / Ilyushin IL-76TD;0;349;0;En route
+23/11/1996;15:15;Off Moroni, Comoros;Ethiopian Airlines;961;Addis Ababa - Nairobi;Boeing B-767-200ER;48;127;0;Taking-off
+04/02/1997;19:00;Northern Israel;Military - Israel Air Force /Military -  Israel Air Force;/;/;Sikorsky CH53D / Sikorsky CH53D;0;73;0;Taking-off
+13/03/1997;18:06;Near Mashhad, Iran;Military - Iranian Air Force;;Dezful - Mashhad;Lockheed C-130HF;0;88;0;En route
+06/08/1997;1:42;Agana, Nimitz Hill, Guam;Korean Airlines;801;Seoul - Guam;Boeing B-747-300;25;229;0;Approach
+26/09/1997;13:34;Buah Nabar, Indonesia;Garuda Indonesia Airlines;152;Jakarta - Medan;Airbus A300-B4-200;0;234;0;Approach
+10/10/1997;22:23;Nuevo Berlin, Uruguay;Austral Lineas Aeras (Argentina);2553;Posadas - Buenos Aires;McDonnell Douglas DC-9-32;0;74;0;Approach
+16/12/1997;18:35;Sharjah, United Arab Emirates;Tajikistan Airlines;3183;Dushanbe - Sharjah;Tupolev TU-154;1;85;0;Landing
+17/12/1997;21:13;Mt. Olympus, Fotina, Greece;Aerosweet Airlines (LVOV);241;Odessa - Thessaloniki;Yakovlev YAK-42;0;70;0;Approach
+19/12/1997;16:13;Near Palembang, Sumatran jungle, Indonesia;SilkAir;185;Jakarta - Hatta - Singapore;Boeing B-737-300;0;104;0;En route
+28/12/1997;23:10;Over the PacifiOcean;United Air Lines;826;Tokyo - Honolulu;Boeing B-747-122;392;1;0;En route
+02/02/1998;11:00;Pagalungan, Philippines;Cebu PacifiAir;387;Tacloban - Cagayan de Oro;McDonnell Douglas DC-9-32;0;104;0;En route
+16/02/1998;20:09;Taipei, Taiwan;China Airlines (Taiwan);676;Denpasar - Taipei;Airbus A300-622R;0;196;7;Landing
+22/03/1998;19:42;Bacolod, Philippines;Philippine Air Lines;137;Manila - Bacolod;Airbus A.320-214;127;0;3;Landing
+05/05/1998;21:30;Andoas, Peru;Fuerza A�rea del Peru;;Iquitos - Andoas;Boeing B-737-282;13;75;0;Approach
+29/08/1998;13:03;Quito, Ecuador;Cubana de Aviacion;389;Quito - Guayaquil - Havana;Tupolev TU-154M;21;70;10;Taking-off
+02/09/1998;21:30;Off Peggy's Cove, Nova Scotia, Canada;Swissair;111;New York City - Geneva;McDonnell Douglas MD-11;0;229;0;En route
+11/12/1998;19:10;Near Surat Thani, Thailand;Thai Airways;261;Bangkok - Surat Thani;Airbus A-310-204;44;102;0;Landing
+01/06/1999;23:50;Little Rock, Arkansas;American Airlines;1420;Dallas-Fort Worth - Little Rock;McDonnell Douglas MD-82;134;11;0;Landing
+23/07/1999;11:25;Tokyo, Japan;All Nippon Airways;61;Tokyo, Japan - Chitose, Japan;Boeing B-747;516;1;0;Taking-off
+24/08/1999;12:36;Hualian, Taiwan;Uni Air;873;Taipei - Hualian;McDonnell Douglas MD-90-30;95;1;0;En route
+31/08/1999;20:55;Buenos Aires, Argentina;LAPA, Lineas Aereas Privadas Argentinas;3142;Buenos Aires - Cordoba;Boeing B-737-204C;39;64;10;Taking-off
+31/10/1999;6:52;Off Nantucket Island, Massachusetts;EgyptAir;990;New York City - Cairo;Boeing B-767-366ER;0;217;0;En route
+10/12/1999;;Kuwait City, Kuwait;Military - U.S. Air Force;;;Lockheed C-130H;91;3;0;Approach
+21/12/1999;9:40;Guatemala City, Guatemala;Cubana de Aviacon;261;Havana - Guatemala City;McDonnell Douglas DC-10-30;298;16;2;Landing
+24/12/1999;;Amritsar, India / Kandahar, Afghanistan;Indian Airlines;814;Kathmandu - New Delhi;Airbus A300B2-101;188;1;0;En route
+30/01/2000;21:08;Off Abidjan, Ivory Coast;Kenya Airways;431;Abidjan - Lagos;AirbusA310-304;10;169;0;Taking-off
+31/01/2000;16:21;Off Point Mugu, California;Alaska Airlines;261;Puerto Vallarta - San Francisco;McDonnell Douglas MD-83;0;88;0;En route
+05/03/2000;18:11;Burbank, Calilfornia;Southwest Airlines;1455;Las Vegas - Burbank;Boeing B-737-3T5;142;0;0;Landing
+19/04/2000;7:02;Samal Island, Mt. Kalangan, Philippines;Air Philippines;541;Manila - Davao;Boeing B-737-2H4;0;131;0;Approach
+25/05/2000;;Near Manila, Philippines;Philippine Air Lines;812;Davao - Manila;Airbus A.330-301;297;1;0;En route
+25/07/2000;16:44;Gonesse, France;Air France;4590;Paris - New York City;Aerospatiale BAe Concorde 101;0;109;4;Taking-off
+23/08/2000;19:30;Off Manama, Bahrain;Gulf Air;72;Cairo - Manama;Airbus A320-212;0;143;0;Approach
+25/10/2000;18:15;Near Batumi, Republiof Georgia;Military - Russian Air Force;;Moscow - Batumi;Ilyushin IL-18D;0;86;0;Approach
+31/10/2000;23:17;Taipei, Taiwan;Singapore Airlines;6;Taipei - Los Angeles;Boeing B-747-412;96;83;0;Taking-off
+20/11/2000;12:22;Miami, Florida;American Airlines;;Miami, FL - Port au Prince;Airbus A300-600R;113;1;0;Climbing
+15/03/2001;;Medina, Saudi Arabia;Vnukovo Airlines;;Istanbul, Turky - Moscow, Russia;Tupolev 154M;171;3;0;En route
+04/07/2001;2:08;Near Irkutsk, Russia;Vladivostokavia;352;Yekaterinburg - Irkutsk - Vladivostok;Tupolev TU-154M;0;145;0;Approach
+24/08/2001;18:46;Terceira, Azores;Canadian Air Transat;236;Toronto - Lisbon;Airbus A-330-243;304;0;0;En route
+11/09/2001;8:45;World Trade Center, New York City, NY;American Airlines / United Airlines;11/ 175;Boston - Los Angeles / Boston - Los Angeles;Boeing 767-223ER / Boeing 767-200;0;157;2750;En route
+11/09/2001;9:39;The Pentagon, Arlington County, Virginia;American Airlines;77;Washington - Los Angeles;Boeing 757-223;0;64;125;En route
+11/09/2001;10:03;Stonycreek Township, Shanksville, Pennsylvania;United Airlines;93;New York City - San Francisco;Boeing 757-222;0;44;0;En route
+04/10/2001;13:44;110 miles SW of Sochi, Russia;Sibir Airlines;1812;Tel Aviv -  Novosibirsk, Russia;Tupolev Tu-154M;0;78;0;En route
+08/10/2001;8:10;Milan, Italy;Scandinavian Airlines (SAS) / Private;686 / ;Milan - Copenhagen / Milan - Paris;MD-87 / Cessna 525A Citation II;0;114;4;Taking-off
+12/11/2001;9:16;Belle Harbor, Queens, New York;American Airlines;587;New York City - Santo Domingo, Dominican Rep.;Airbus A-300-605R;0;260;5;Taking-off
+28/01/2002;11:00;Near Ipiales, Nevado de Cumbal volcano, Colombia;TAME;120;Quito -  Tulc�n - Cali;Boeing B-727-134;0;92;0;En route
+12/02/2002;7:50;Near Khorramabed, Sefid Kouh mountain, Iran;Iran Air Tours;956;Tehran - Khorramabed;Tupolev TU-154;0;117;0;Approach
+15/04/2002;11:23;Busan, Mt. Mulbong, South Korea;Air China;129;Beijing - Busan;Boeing B-767-200ER;38;128;0;Approach
+04/05/2002;13:30;Kano, Nigeria;EAS Airlines (Executive Airline Services);4226;Abuja - Jos - Kano - Lagos;BAC One-Eleven 525FT;3;74;75;Taking-off
+07/05/2002;21:32;Off Dalian, China;China Northern Airlines;6136;Beijing - Dalian;McDonnell Douglas MD-82;0;112;0;En route
+25/05/2002;15:29;Off Penghu Island, Taiwan;China Airlines (Taiwan);611;Taipei - Hong Kong;Boeing B-747-209B;0;225;0;En route
+01/07/2002;23:36;Uberlingen, Germany;Bashkirian Airlines / DHL Worldwide Express;2927 / 611;Moscow-Munich-Barcelona / Bahrain/Brussels;Tupolev TU-154M / Boeing B-757-23APF;0;71;0;En route
+19/08/2002;;Khankala, Chechnya;Military - Russian Air Force;;;Mil Mi-26;26;121;0;En route
+08/01/2003;20:28;Diyarbakir, Turkey;Turkish Airlines (THY);634;Istanbul - Ankara - Diyarbakir;BAe Avro RJ-100;5;75;0;Landing
+19/02/2003;17:30;Near Shahdad, Iran;Military - IslamiRevolution's Guards Corps;;Zahedan - Kerman;Ilyushin Il-76MD;0;275;0;Approach
+06/03/2003;15:45;Tamanrasset, Algeria;Air Algerie;6289;Tamanrasset - Algiers;Boeing B-737-2T4;1;102;0;Taking-off
+08/05/2003;;Near Kinshasa, Congo;Ukrainian Cargo Airlines -  Congolese Army Charter;;Kinshasa - Lubumbashi;Illyushin 76;71;129;0;En route
+26/05/2003;4:45;Near Macka, Trabzon, Turkey;Ukranian-Mediterranean Airlines;4230;Kabul, Afghanistan - Trabzon, Turkey - Zaragoza, Spain;Yakovlev 42D;0;75;0;Approach
+08/07/2003;4:00;Port Sudan, Sudan;Sudan Airways;139;Port Sudan - Khartoum;Boeing 737-2J8C;1;116;0;Taking-off
+25/12/2003;14:55;Cotonou, Benin;Union des Transports Aeriens de Guinee;141;Conakry, Guinea - Cotonou, Benin - Beirut, Lebanon;Boeing B-727-223;21;140;0;Taking-off
+03/01/2004;4:44;Off Sharm el Sheikh, Egypt;Flash Air;604;Sharm el Sheikh, Egypt - Cairo, Egypt;Boeing B-737-3Q8;0;148;0;Taking-off
+30/11/2004;18:14;Solo, Indonesia;Lion Air;583;Jakarta, Indonesia - Solo, Indonesia;McDonnell-Douglas MD-82;128;26;0;Landing
+03/02/2005;17:00;Near Peshawar, Chaperi Mountain, Pakistan;Kam Air;904;Herat - Kabul;Boeing B-737-200;0;104;0;Approach
+20/04/2005;22:15;Tehran, Iran;Saha Airline Services;;Krish - Teran;Boeing B-707-3J9C;166;3;0;Airport
+02/08/2005;16:04;Toronto, Canada;Air France;358;Paris, France - Toronto Canada;Airbus A-340;309;0;0;Landing
+14/08/2005;12:20;Near Grammatikos, Greece;Helios Airways;522;Larnaca, Cyprus - Athens, Greece - Prague, Czech Republic;Boeing 737-31S;0;121;0;En route
+16/08/2005;3:30;Near La Cucharita, Sierra de Perija, Venezuela;West Caribbean Airways;;Panama City - Fort de France, Martinique;McDonnell Douglas MD-82;0;160;0;En route
+23/08/2005;15:06;Near Pucallpa, Peru;TANS Peru;204;Lima - Pucallpa - Iquitos;Boeing B-737-244;58;40;0;Approach
+05/09/2005;9:40;Medan, Indonesia;Mandala Airlines;91;Medan - Jakarta;Boeing 737-230;18;99;44;Taking-off
+04/10/2005;;Aru, DemocratiRepubliCogo;Wimbi Dira Airways;;Kisangani - Bunia;Antonov 12V;98;2;0;Landing
+22/10/2005;20:40;Lisa, Nigeria;Bellview Airlines;3210;Lagos - Abuja;Boeing B-737-2L9;0;117;0;Taking-off
+06/12/2005;14:15;Tehran, Iran;Military - IslamiRepubliof Iran Air Force;;Tehran - Bandar Abbas;Lockheed C-130B Hercules;0;94;14;Taking-off
+08/12/2005;19:15;Chicago, Illinois;Southwest Airlines;1248;Baltimore, Maryland - Chicago, Illinois - Las Vegas, Nevada;Boeing B-737-7H4;103;0;1;Landing
+10/12/2005;14:08;Near Port Harcourt, Nigeria;Sosoliso Airlines;1145;Abuja - Port Harcourt;McDonnell DC-9-32;1;108;0;Landing
+03/05/2006;2:15;Off Sochi, Black Sea, Russia;Armavia;967;Yerevan, Armenia - Sochi, Russia;Airbus A320-211;0;113;0;Landing
+09/07/2006;7:44;Irkutsk, Russia;Sibir (S7);778;Moscow - Irkutsk;Airbus A-310-324ET;75;128;0;Landing
+22/08/2006;15:30;Near Donetsk, Ukraine;Pulkovo Airlines;612;Anapa - St. Petersburg;Tupolev Tu-154M;0;170;0;En route
+01/09/2006;13:45;Mahad, Iran;Iran Air Tours;;Bandar Abbas - Mashad;Tupolev Tu-154M;119;29;0;Landing
+29/09/2006;15:59;Near Sao Felix do Araguaia , Brazil;Gol Airlines / Private;1907/;Manaus - Brasilia / ;Boeing B-737-8EH /EMB-135JB;7;154;0;En route
+29/10/2006;11:30;Near Abuja, Nigeria;ADC Airlines;53;Lagos - Abuja - Sokoto;Boeing 737-2B7;9;96;0;Taking-off
+01/01/2007;14:07;Off Parepare, Indonesia;Adam Air;574;Surabaya, East Java - Manado, Indonesia;Boeing B-737-4Q8;0;102;0;En route
+07/03/2007;7:14;Yogyakarta, Indonesia;Garuda Indonesia Airlines;200;Jakarta - Yogyakarta;Boeing B-737-497;118;22;0;Landing
+05/05/2007;;Near Dizangue, Cameroon;Kenya Airways;507;Abidjan, Ivory Coast - Douala, Cameroon - Nairobi, Kenya;Boeing B-737-8AL;0;114;0;Taking-off
+17/07/2007;18:52;Sao Paulo, Brazil;TAM (Brazil);3054;Porto Alegre - Sao Paulo;Airbus A-320-233;0;187;12;Landing
+16/09/2007;15:35;Phuket, Thailand;One-Two-Go Airlines;269;Bangkok - Phuket;McDonnell Douglas MD-82;40;90;0;Landing
+17/01/2008;12:43;London, England;British Airways;;Bejing, China - London, England;Boeing 777-236ER;152;0;0;Landing
+30/05/2008;9:40;Tegucigalpa, Honduras;TACA International Airlines;390;San Salvador, El Salvador - Tegucigalpa, Honduras - Miami;Airbus A-320-233;133;3;2;Landing
+10/06/2008;20:45;Khartoum, Sudan;Sudan Airways;548;Aman, Jordan - Damascus, Syria - Khartoum, Sudan;Airbus A-310-324;182;32;0;Landing
+20/08/2008;14:45;Madrid, Spain;Spanair;5022;Madrid - Las Palmas, Canary Islands;McDonnell Douglas MD-82;18;154;0;Taking-off
+24/08/2008;20:30;Bishkek, Kyrgyzstan;Itek Air;6895;Bishkek - Tehran, Iran;Boeing B-737-219;22;68;0;Taking-off
+14/09/2008;3:15;Perm, Russia;Aeroflot;821;Moscow - Perm;Boeing B-737-505;0;88;0;Approach
+15/01/2009;15:06;Hudson River, New York City, NY;US Airways;1549;New York, NY- Charlotte, NC;Airbus A320-214;155;0;0;Taking-off
+25/02/2009;10:31;Amsterdam, Netherlands;Turkish Airlines;1951;Istanbul, Turkey - Amsterdam, Netherlands;Boeing 737-8F2;125;9;0;Approach
+20/05/2009;6:30;Near Madiun, Indonesia;Military - Indonesian Air Force;;Jakarta - Maduin;Lockheed C-130 Hercules;14;98;2;Approach
+01/06/2009;0:15;AtlantiOcean, 570 miles northeast of Natal, Brazil;Air France;447;Rio de Janeiro - Paris;Airbus A330-203;0;228;0;En route
